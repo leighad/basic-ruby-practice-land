@@ -38,6 +38,7 @@ if __FILE__ == $0
     mg.say_hi
     mg.say_bye
 
+    # list of pets, present and past
     mg.names = ["Terrapin", "Spirulina", "BeeBee", "Tankie", "CoCo", "KiKi", "Sushi Roll", "LuLu"]
 
     mg.say_hi
